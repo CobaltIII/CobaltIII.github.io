@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Dhruv Jaiswal
 tagline:          'An engineer, logician and a problem solver'
-description:      'An engineer, logician and a problem solver. Currently studying in IIIT Delhi pursuing a degree in Computer Science Engineering. While dabbling in everything from math to economics and a little bit of everything.'
+description:      'An engineer, logician and a problem solver. Currently studying in IIIT Delhi pursuing a degree in Computer Science Engineering. While dabbling in everything from math to economics and a little bit of everything :)'
 url:              https://github.com/CobaltIII
 baseurl:          /
 
@@ -21,4 +21,4 @@ paginate:         5
 github:
   repo:           https://github.com/poole/hyde
 
-curr_interest:    Algorithm Design, Runtime methods for Scheduling, Spectral Analysis
+curr_interest:    Algorithm Design, Runtime methods for Scheduling, Spectral Theory of Finite Dimensions
