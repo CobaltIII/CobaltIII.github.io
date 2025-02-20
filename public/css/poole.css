@@ -266,22 +266,22 @@ tbody tr:nth-child(odd) th {
 
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
 
-/* Typewriter Effect for .lead */
+/* Typewriter Effect */
 .lead {
     font-family: 'Special Elite', 'Courier New', Courier, monospace;
     font-size: 1.2rem;
-    white-space: nowrap;
     overflow: hidden;
     display: inline-block;
-    width: 0; /* Initially hidden */
+    max-width: 100%; /* Ensures it doesn’t overflow */
+    word-wrap: break-word; /* Allows wrapping */
+    white-space: pre-wrap; /* Preserves line breaks and wraps text */
     animation: typing 4s steps(30, end) forwards;
-    position: relative;
 }
 
 /* Typing Effect */
 @keyframes typing {
     from { width: 0; }
-    to { width: 100%; } /* Full width */
+    to { width: 100%; } /* Expands to full width */
 }
 
 /* Blinking Cursor */
@@ -294,6 +294,7 @@ tbody tr:nth-child(odd) th {
 @keyframes blink {
     50% { opacity: 0; }
 }
+
 
 
 
