@@ -20,3 +20,5 @@ paginate:         5
 
 github:
   repo:           https://github.com/poole/hyde
+
+curr_interest:    Algorithm Design, Runtime methods for Scheduling, Spectral Analysis
