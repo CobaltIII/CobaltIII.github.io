@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /about/
+<!--permalink: /about/-->
 ---
 
 <div class="message">
