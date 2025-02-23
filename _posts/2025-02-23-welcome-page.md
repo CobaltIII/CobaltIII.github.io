@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: It's me, hi
 ---
 
 I'm a free thinker who is a jack of all trades. I'm currently pursuing my degree in Computer Science engineering but more often than not find myself reading math journals and falling in love with the elegance of the subject. 
