@@ -17,6 +17,7 @@
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
+      {% comment %}
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,7 +26,10 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      {% endcomment %}
 
+      <a class="sidebar-nav-item" href="https://www.linkedin.com/in/dhruv-jaiswal-040458212/" target="_blank">Linkedin</a>
+      
       <a class="sidebar-nav-item" href="{{ site.baseurl }}public/Dhruv_Jaiswal_CV.pdf" target="_blank">CV</a>
 
       <a class="sidebar-nav-item" href="mailto:dhruv23200@iiitd.ac.in">Contact Me</a>
