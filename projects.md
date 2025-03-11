@@ -4,28 +4,28 @@ title: Projects
 permalink: /projects/
 ---
 
-These are some projects I've worked on for either my coursework or during my general free time
+These are some projects I've worked on for either my coursework or during my general free time.
 
-## Forcasting model for Mutual Funds
+## Forecasting model for Mutual Funds
 
-My friend [Sakshat](https://sak-drago.github.io/) and I, looked into optimization of inverstment stategies when it comes to Mutual Funds using SARIMAX model proposed by Dénes Csala. We achieved 75% forecasting accuracy by incorporating over 30 exogenous variables, improving predictions of mutual funds NAV.
+My friend [Sakshat](https://sak-drago.github.io/) and I looked into the optimization of investment strategies when it comes to Mutual Funds using the SARIMAX model proposed by Dénes Csala. We achieved 75% forecasting accuracy by incorporating over 30 exogenous variables, improving predictions of mutual funds NAV.
 
 ## A research paper about the existence of an isomorphism between Tower of Hanoi Graphs and the Sierpiński triangle 
 
-The most notable project in my undergrad (for now) came in my course of Discrete Mathematics. We had to create a mathematical paper with a sizable novelty and my group chose to study Hanoi Graphs with the lens of Fractals from dynamical systems and Group theory from Abstract Algebra. Finally we were able to conjecture some solid statements regarding the existence and shape of these graphs. You can see the paper here. It is currently being reviewed by a few members of the mathematical fraternity and depending on their consensus we may choose to move forward with refining the research.
+The most notable project in my undergrad (for now) came in my course of Discrete Mathematics. We had to create a mathematical paper with a sizable novelty, and my group chose to study Hanoi Graphs with the lens of Fractals from dynamical systems and Group theory from Abstract Algebra. Finally, we were able to conjecture some solid statements regarding the existence and shape of these graphs. You can see the paper here. It is currently being reviewed by a few members of the mathematical fraternity, and depending on their consensus, we may choose to move forward with refining the research.
 
 [Link to the assignment paper](https://drive.google.com/file/d/1oxlfG0qY88_6upTzsKx8dzTCHZnCTZwO/view?usp=sharing)
 
 ## Simulating Cryptographic Attacks [Python]
 Guide : [Maria Eichlseder’s lectures](https://www.youtube.com/playlist?list=PLfX_2xRB__0OhOzA-rl6kvnLCCtrRoS7x)
 
-Demonstrating the Wiener's Attack on RSA with a small private exponent, using the concept of continued fractions. Also proving the correctness of the attack mathematically.
+Demonstrating the Wiener's Attack on RSA with a small private exponent, using the concept of continued fractions. Also I gave a robust proof of the correctness of the attack mathematically.
 
 [![CobaltIII/Wieners-attack - GitHub](https://gh-card.dev/repos/CobaltIII/Wieners-attack.svg?refresh)](https://github.com/CobaltIII/Wieners-attack)
 
 ## Operating System Shell Functionality Modules [C/C++]
 
-As assignments for the Operating Systems course we had to create multiple modules for functions of the shell of Linux systems like Schedulers using Round Robin policy, Page allocator and a Simple Multithreader.
+As assignments for the Operating Systems course, we had to create multiple modules for functions of the shell of Linux systems like Schedulers using Round Robin policy, Page allocator, and a Simple Multithreader.
 
 [![CobaltIII/OS-assignment-3 - GitHub](https://gh-card.dev/repos/CobaltIII/OS-assignment-3.svg?refresh)](https://github.com/CobaltIII/OS-assignment-3)
 
