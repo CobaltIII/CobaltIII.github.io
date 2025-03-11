@@ -1,0 +1,31 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Dhruv Jaiswal
+tagline:          "It's me, hi"
+description:      'An engineer, logician and a problem solver. Currently studying in IIIT Delhi pursuing a degree in Computer Science Engineering. While dabbling in everything from math to economics and a little bit of everything :)'
+url:              https://canro91.github.io
+baseurl:          /
+
+future:           false
+
+author:
+  name:           'Dhruv Jaiswal'
+  url:
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:
+
+github:           
+devto:            
+linkedin:         
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+curr_interest:    Algorithm Design, Runtime methods for Scheduling, Spectral Theory of Finite Dimensions

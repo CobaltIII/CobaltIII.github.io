@@ -1,0 +1,39 @@
+---
+layout: page
+title: It's me, hi
+---
+
+I'm a free thinker who is a jack of all trades. I'm currently pursuing my degree in Computer Science engineering, but more often than not, I find myself reading math journals and falling in love with the subject's elegance. 
+
+I'm enrolled at Indraprastha Institute of Information Technology, Delhi (IIIT Delhi) and hope to complete my undergrad by 2027. Despite being somewhat boxed in by the focus of my degree being computer science, I try my best to take a shot at all sorts of things, from finance to quantum information theory at times.
+
+### My Computer Science Journey
+Animation always interested me despite my abysmal drawing skills. It always seemed fascinating how a series of images could merge seamlessly to create something beyond itself, peering into the realm of motion and movement. It's like every animated movie is like a gigantic flipbook that the creator meticulously made, taking care of every tiny detail, all perfectly crafted to create an unforgettable experience for everyone watching.
+
+I never knew what to do with this fascination as traditional animation always required being skilled with the brush, something I could only dream of being. That's when I found a YouTube channel that changed the structure of my life, Grant Sanderson or, more popularly, 3Blue1Brown. Watching his series on linear algebra, I was mesmerized by the animation of Linear Transformations and Spanning Sets and decided to investigate its workings. To my surprise, it was all code turning into beautiful animation. The open-source library Manim was the source behind this magic, and I was instantly fascinated. I got to work with it at once, even creating videos for any other math presentations I had to give in school to showcase my skills (and score a few extra marks by dazzling the teachers).
+
+Fast forward seven years, and my fascination with code has only grown. Today, I'm working with my Operating Systems professor, Vivek Kumar, on developing runtime applications aimed at optimizing energy efficiency and speed. Academically, I gravitate towards Theoretical Computer Science and Machine Learning courses like Theory of Computation and Statistical Machine Learning.
+
+As for the future, I recognize that technology will only become more embedded in daily life, shaping the world in ways we can't yet imagine. I welcome every twist and turn in this evolving field, all while strengthening my foundations as a coder and developer. From building my own interpreter for a C-like language to recreating Angry Birds from scratch, I see this as just the beginning of my journey of unraveling computers.
+
+### My Mathematics Journey
+
+Mathematics has always fascinated me to limits I have never been able to put across in writing. My relationship with the mathematical arts has been cathartic and liberating at every turn of the journey. My earliest memories of math have been looking at a beautiful proof of converting a repeating decimal to a fraction, seemingly transforming the infinite into a mere ratio of natural numbers. To say that it captivated me would be a gross understatement, it had rocked me to my core irreversibly and incomprehensibly. The proof went something like this, 
+
+$$\text{Write } 0.\overline{75} \text{ as a fraction} \\ \text{Let } x = 0.\overline{75} \\ \implies 100x = 75.\overline{75} \\ \therefore 100x - x = 99x \equiv 75.\overline{75} -  0.\overline{75} = 75 \\ \equiv 99x = 75 \\ x = \frac{75}{99} $$
+
+Something that uses nothing more than 3rd-grade mathematics that taught me the creativity that went into the subject.
+
+Since then, I've sought out math in every place I go, demanding rigor and proofs of things that were never given to us to make sure every piece that falls into place in my understanding of any subject is built on a logical foundation that cannot be shaken by any force.
+
+### My Finance and Trading Infatuation
+
+Honestly, the beginnings of my fascination with finance have been from movies, specifically the 2015 movie The Big Short. There was a line in the film that stuck with me for months; it essentially said, "These outsiders saw the giant lie in the heart of the economy, and they saw it by doing something the rest of the people never thought to do... they looked." 
+
+With that line ringing in my ears, I set off to try and find my own observations about the economy. However, it hit me very early on that this was a task that would need a lot of time and patience, so I started. What started as casual curiosity about the 2008 housing market crash soon spiraled into risk modeling and algorithmic trading.
+
+I vividly remember the first time I implemented a trading strategy in Python. It was a simple moving average crossover strategy—elementary by professional standards, but an absolute thrill for someone taking their first steps into algorithmic trading. Watching the backtest results unfold felt like deciphering an encrypted language where every number and trend carried a deeper story.
+
+Recently, after a talk by Adrian Dudek of Optiver at my college, I refueled my drive for researching in the field and gravitated towards high-frequency trading, delving into stochastic calculus and applying it to pricing models like the Black-Scholes. 
+
+For me, finance isn't just about numbers or profit margins; it's about pattern recognition, strategy, and making sense of uncertainty. Whether it's the elegance of a well-structured portfolio optimization problem or the real-time thrill of trading, finance is another dimension where my love for math, logic, and technology converge.
