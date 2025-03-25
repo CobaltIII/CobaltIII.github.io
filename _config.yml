@@ -29,3 +29,5 @@ plugins:
   - jekyll-gist
 
 curr_interest:    Algorithm Design, Runtime methods for Scheduling, Spectral Theory of Finite Dimensions
+
+credit : Cesar Aguirre
